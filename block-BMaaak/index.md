@@ -24,3 +24,4 @@ Q2. Create an article Schema with fields
 1. Add multikey indexes on tags which is an array of strings
 2. Add text indexes on title as users will search for texts present in an article's title.
 3. Update text indexes to include descriptions as well. Implement text indexes on both title and description.
+//
